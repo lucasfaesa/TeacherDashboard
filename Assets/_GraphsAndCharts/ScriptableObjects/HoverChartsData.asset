@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2e5214c16454354d8d8601717490a9f, type: 3}
+  m_Name: HoverChartsData
+  m_EditorClassIdentifier: 
+  studentSpaceshipData: {fileID: 11400000, guid: fdf26da18601e74418b9660f9f487e29, type: 2}
